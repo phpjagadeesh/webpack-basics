@@ -47,3 +47,12 @@ $ npm install --save-dev web-pack
 
 - index.html
 - /src/index.js
+- index.js is simple javascipt code.
+- index.html is root files.
+
+### Run this code.
+
+```sh
+./node_modules/.bin/webpack src/index.js dist/bundle.js
+```
+ 
